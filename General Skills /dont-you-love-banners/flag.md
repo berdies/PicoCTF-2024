@@ -1,3 +1,5 @@
+![image](https://github.com/berdies/PicoCTF-2024/assets/132856091/425f8662-6ce1-442e-97d9-d8beb6dd6a69)
+
 ![image](https://github.com/berdies/PicoCTF-2024/assets/132856091/4e3cd800-5278-4986-bdf5-da2104683541)
 
 To start this challenge off.. go to your shell and enter `nc tethys.picoctf.net [port number]` in the command line and this is what should pop up
