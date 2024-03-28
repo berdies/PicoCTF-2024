@@ -2,7 +2,7 @@
 
 The description is as straight forward as it can be...
 
-Open a terminal and enter
+Go to your shell and enter
 
 `ssh ctf-player@titan.picoctf.net -p 60572`
 
