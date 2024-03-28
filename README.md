@@ -1,6 +1,6 @@
 # WriteUps for the 2024 PicoCTF Competition
 
 
-For IHT 3rd Period
+For IHT 3rd Period and AP CSP 6th Period
 
 **BEAR IN MIND THE FLAGS IN THE SCREENSHOTS ARE UNIQUE, THEY WILL NOT WORK FOR YOU**
