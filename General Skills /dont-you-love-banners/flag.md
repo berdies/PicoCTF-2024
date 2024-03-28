@@ -37,7 +37,7 @@ After that restart instance, **UP ARROW** in the command line should take you ba
 
 Enter everything you did previously again, such as the password and answers 
 
-Once you restart the instance, there should be your flag 🥳🥳🥳
+Once you restart the instance, there should be your flag 🥳
 
 ![image](https://github.com/berdies/PicoCTF-2024/assets/132856091/79ff1b12-84f6-473e-9502-2959ba23c5a3)
 
