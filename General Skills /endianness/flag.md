@@ -44,4 +44,4 @@ Finally.. copy the Big Endian Representation, go back to your shell, and paste t
 
 ![image](https://github.com/berdies/PicoCTF-2024/assets/132856091/044fce43-5846-47b3-875c-e4cbb2c5f64c)
 
-There you should finally have your flag🥳
+There you should finally have your flag 🥳🥳🥳
