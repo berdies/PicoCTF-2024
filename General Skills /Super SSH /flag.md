@@ -10,4 +10,4 @@ You will then be asked if you are sure you want to continue connecting, enter `y
 
 Then on, you will be asked to enter the password, the password is in the challenge description, enter `1ad5be0d`
 
-There you should have a flag 🥳🥳🥳
+There you should have a flag 🥳
