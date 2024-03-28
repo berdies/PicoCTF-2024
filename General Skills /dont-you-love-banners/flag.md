@@ -23,7 +23,7 @@ Like this
 
 You are now successfully in the instance, from there on you want to remove the banner file in your home directory by entering `rm banner` in the command line
 
-After doing that enter `cd /root` in the command line and then enter `ls` and you'll see this 
+After doing that enter `cd /root` in the command line and then enter, right after enter `ls` in the command line and you'll see this 
 
 ![image](https://github.com/berdies/PicoCTF-2024/assets/132856091/a5d72cae-8f6a-49ed-9879-634cab3ef27e)
 
